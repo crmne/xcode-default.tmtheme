@@ -165,7 +165,10 @@
 			<key>scope</key>
 			<string>entity.name.tag</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#790EAD</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -173,7 +176,10 @@
 			<key>scope</key>
 			<string>entity.other.attribute-name</string>
 			<key>settings</key>
-			<dict/>
+			<dict>
+				<key>foreground</key>
+				<string>#450084</string>
+			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
